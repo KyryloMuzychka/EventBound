@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eQT4gBVbrWPzMUkq4ONRapsHgNYZcQaIaSTx/jrPZqA=",
+  "Source": "EventBound",
+  "BasePath": "_content/EventBound",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
